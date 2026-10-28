@@ -1,4 +1,4 @@
-import 'package:currency_converter/currency_converter.dart';
+import 'package:Currex/currency_converter.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
