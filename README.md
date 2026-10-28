@@ -33,11 +33,26 @@ currency_converter/
 ```
 
 ## 📸 Screenshots
-Add your project screenshots to a `screenshots/` folder and display them here.
+### 🏠 Home Screen
+ 
+<p align="center">
+  <img src="screenshots/home.png" width="400" alt="Currex">
+</p>
+ 
 
-```markdown
-![Currency Converter](screenshots/currency-converter.png)
-```
+### SAR to INR
+
+
+<p align="center">
+  <img src="screenshots/sar.png" width="400" alt="SAR to INR">
+</p>
+
+
+### USD to INR
+ 
+<p align="center">
+  <img src="screenshots/usd.png" width="400" alt="USD to INR">
+</p>
 
 ## 🚀 Installation Steps
 
